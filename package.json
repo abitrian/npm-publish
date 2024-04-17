@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/abitrian/npm-publish/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/abitrian/npm-publish#readme"
 }
